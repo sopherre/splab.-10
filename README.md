@@ -5,6 +5,10 @@ Udemy で購入したコースで作成したアプリです。
 ## アプリケーションの起動方法
 
 ```
+cd flea-market
+```
+
+```
 pnpm install
 ```
 
